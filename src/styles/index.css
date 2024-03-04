@@ -1,12 +1,20 @@
+.principal {
+    text-align: center;
+    margin-top: 15px;
+    background: black;
+}
 
-/* 
+.principal div {
+    display: inline-block;
+    color: white;
+    background:#101010;
+    font-size: 90px;
+    line-height: 90px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.reloj {
+    background-color:orange;
+}
